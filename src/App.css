@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.list_item{
+  display:flex;
+  justify-content:space-between;
+  text-align: center;
+  margin: 10px;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+.list{
+  display:inline-block;
+  width: 50%;
+  text-align: center;
+}
+.input_to_list{
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.add_item{
+  background-color: rgb(48, 209, 214); 
+  border: none;
+  color: white;
+  padding: 10px ;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius:3px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.delete_item{
+  cursor: pointer;
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 5px ;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius:3px;
+  margin: 5px;
+}
