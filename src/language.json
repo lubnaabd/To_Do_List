@@ -1,0 +1,18 @@
+{
+    "ar": {
+      "translation": {
+        "add":"إضافة مهمة",
+        "delete":"حذف",
+        "toDolist":"قائمة المهمات",
+        "language":"AR"
+      }
+    },
+    "en": {
+      "translation": {
+        "add":"add item ",
+        "delete":"delete",
+        "toDolist":"To Do List",
+        "language":"EN"
+      }
+    }
+  }
